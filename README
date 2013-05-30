@@ -1,4 +1,4 @@
-#SessionChecker
+# sessionChecker
 セッション固定化の脆弱性を検知するツールver2
 
 ログイン前後限定
